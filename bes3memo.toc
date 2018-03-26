@@ -1,0 +1,36 @@
+\contentsline {section}{\numberline {1}Introduction}{2}{section.1}
+\contentsline {paragraph}{\ }{2}{section*.2}
+\contentsline {paragraph}{\ }{2}{section*.3}
+\contentsline {paragraph}{\ }{2}{section*.4}
+\contentsline {section}{\numberline {2}Measurements of $J/\psi \to 3\gamma $ and $J/\psi \to \gamma \eta _c$ at 3.686GeV}{2}{section.2}
+\contentsline {subsection}{\numberline {2.1}Software Version and Event Selection}{2}{subsection.2.1}
+\contentsline {subsubsection}{\numberline {2.1.1}Software and dataset}{2}{subsubsection.2.1.1}
+\contentsline {paragraph}{\ }{2}{section*.5}
+\contentsline {paragraph}{\ }{2}{section*.6}
+\contentsline {paragraph}{\ }{2}{section*.7}
+\contentsline {paragraph}{\ }{3}{section*.9}
+\contentsline {subsubsection}{\numberline {2.1.2}Data selection}{3}{subsubsection.2.1.2}
+\contentsline {paragraph}{\indent }{3}{section*.10}
+\contentsline {paragraph}{\hskip 1em\relax }{3}{section*.11}
+\contentsline {subsubsection}{\numberline {2.1.3}Total number of $\psi (2s) \to \pi ^+ \pi ^- J/\psi $ events}{3}{subsubsection.2.1.3}
+\contentsline {paragraph}{\ }{3}{section*.12}
+\contentsline {subsection}{\numberline {2.2}Signal and Background}{3}{subsection.2.2}
+\contentsline {paragraph}{\ }{3}{section*.13}
+\contentsline {paragraph}{\ }{4}{section*.14}
+\contentsline {paragraph}{\ }{4}{section*.15}
+\contentsline {paragraph}{\ }{5}{section*.16}
+\contentsline {paragraph}{\ }{5}{section*.17}
+\contentsline {paragraph}{\ }{5}{section*.18}
+\contentsline {subsection}{\numberline {2.3}Analysis}{7}{subsection.2.3}
+\contentsline {subsubsection}{\numberline {2.3.1}$J/\psi \to 3\gamma $}{7}{subsubsection.2.3.1}
+\contentsline {paragraph}{\ }{7}{section*.19}
+\contentsline {subsubsection}{\numberline {2.3.2}$J/\psi \to \gamma \eta _c$}{7}{subsubsection.2.3.2}
+\contentsline {paragraph}{\ }{7}{section*.20}
+\contentsline {subsection}{\numberline {2.4}Study on $\eta _c$ shapes}{7}{subsection.2.4}
+\contentsline {paragraph}{\ }{7}{section*.21}
+\contentsline {paragraph}{\newline }{8}{section*.22}
+\contentsline {subsection}{\numberline {2.5}Systematic Errors}{10}{subsection.2.5}
+\contentsline {paragraph}{\ }{10}{section*.23}
+\contentsline {section}{\numberline {3}Conclusion}{11}{section.3}
+\contentsline {paragraph}{\ }{11}{section*.24}
+\contentsline {section}{References}{12}{section*.24}

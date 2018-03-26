@@ -1,0 +1,6 @@
+rm -f bes3memo.aux
+rm -f bes3memo.dvi
+rm -f bes3memo.log
+rm -f bes3memo.out
+rm -f bes3memo.pdf
+rm -f bes3memo.ps
